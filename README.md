@@ -7,5 +7,3 @@
   <img src="https://profile-counter.glitch.me/avi7410/count.svg" />
 </p>
 
-
-![Snake animation](https://github.com/avi7410/avi7410/blob/output/github-contribution-grid-snake.svg)
