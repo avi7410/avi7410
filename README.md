@@ -8,4 +8,4 @@
 </p>
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/avi7410/avi7410/blob/output/github-contribution-grid-snake.svg)
