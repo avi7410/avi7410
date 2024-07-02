@@ -12,8 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avi7410&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=avi7410)](https://github-profile-trophy.vercel.app/?username=avi7410&title=Commits,Experience,Repositories,Stars,Followers)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=avi7410)]
 
 <p align="center"> 
   Visitor count<br>
