@@ -6,10 +6,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/avi7410/count.svg" />
 </p>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/avi7410/avi7410/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
