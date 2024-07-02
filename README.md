@@ -3,7 +3,7 @@
 </h1>
 
 ## 💫 About Me:
-3rd-year B.Tech Undergraduate pursuing Computer Science and Engineering at BML Munjal University, Gurugram, India.
+A 3rd-year B.Tech Undergraduate pursuing B.Tech in CSE (Computer Science and Engineering) at BML Munjal University (BMU), Gurugram, India.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avi-Vyas) 
