@@ -3,11 +3,11 @@
 </h1>
 
 ## 💫 About Me:
-~ Final-year BTech CSE student with a passion for algorithmic problems.
-~ Strong problem-solving and analytical skills.
-~ Creative thinker with a logical approach to real-world problem-solving.
-~ Dedicated and determined to achieve goals with hard work.
-~ Eager to contribute innovative ideas and a fresh perspective to projects.
+~ Final-year BTech CSE student with a passion for algorithmic problems.<br>
+~ Strong problem-solving and analytical skills.<br>
+~ Creative thinker with a logical approach to real-world problem-solving.<br>
+~ Dedicated and determined to achieve goals with hard work.<br>
+~ Eager to contribute innovative ideas and a fresh perspective to projects.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avi-Vyas) 
