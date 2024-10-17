@@ -9,6 +9,9 @@
 ~ Dedicated and determined to achieve goals with hard work.<br>
 ~ Eager to contribute innovative ideas and a fresh perspective to projects.<br>
 
+## 📊 Coding Profile:
+![LeetCode Stats](https://leetcard.jacoblin.cool/avivyas812?theme=nord&font=Source%20Code%20Pro&ext=activity)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avi-Vyas) 
 
