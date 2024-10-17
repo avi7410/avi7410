@@ -9,9 +9,6 @@
 ~ Dedicated and determined to achieve goals with hard work.<br>
 ~ Eager to contribute innovative ideas and a fresh perspective to projects.<br>
 
-## 📊 Coding Profile:
-![LeetCode Stats](https://leetcard.jacoblin.cool/avivyas812?theme=nord&font=Source%20Code%20Pro&ext=activity)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avi-Vyas) 
 
@@ -21,6 +18,9 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avi7410&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avi7410&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 Coding Profile:
+![LeetCode Stats](https://leetcard.jacoblin.cool/avivyas812?theme=nord&font=Source%20Code%20Pro&ext=activity)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=avi7410&theme=radical&title=Commits,Experience,Repositories,Followers,Stars)
